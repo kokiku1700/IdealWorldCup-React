@@ -34,6 +34,16 @@ const Food = () => {
       name: "돈까스",
       src: foodImg.food5,
     },
+    {
+      id: 6,
+      name: "제육볶음",
+      src: foodImg.food6,
+    },
+    {
+      id: 7,
+      name: "김밥밥",
+      src: foodImg.food7,
+    },
   ]
 
   return (

@@ -4,6 +4,8 @@ import food2 from "../img/food/2.jpg";
 import food3 from "../img/food/3.jpg";
 import food4 from "../img/food/4.jpg";
 import food5 from "../img/food/5.jpg";
+import food6 from "../img/food/6.jpg";
+import food7 from "../img/food/7.jpg";
 
 
 export {
@@ -13,5 +15,7 @@ export {
     food3,
     food4,
     food5,
+    food6,
+    food7,
 
 }
